@@ -9,14 +9,13 @@
 header {
     background-color: black;
     padding: 90px 90px 133px 90px;
-    margin-bottom: 33px;
     color: white;
     text-align: center;
     font-size: 1.5vw;
 }
 
-header > h1 {
-    margin-bottom: 30px;
+body {
+    background-image: linear-gradient(to right, black 20%, gold 50%, white);
 }
 
 picture#logolibertadores {
@@ -28,19 +27,61 @@ main  h1{
    color: white;
    background-image: linear-gradient(to right, black 20%, gold 50%, white);
    padding: 20px;
+  
+}
+
+
+
+table {
+   margin: 20px;
+   background-color: rgba(128, 128, 128, 0.786);
+   border: 2px solid black;
+   border-collapse: collapse;
+   display: inline-block;
+
+}
+
+th {
+    color: white;
+}
+
+td, th {
+    border: 2px solid black;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+tbody > tr:nth-child(2n) {
+    background-color: rgba(211, 211, 211, 0.615);
+    
+}
+
+tr.campeao {
+    color: gold;
+}
+
+article.times {
+
+}
+
+article.times#palmeiras {
+    background-image: url(images/wallpapers-teams/palmeirasposter.jpg);
+    background-position: top center;
+    background-attachment: fixed;
 }
 
 article.times#saopaulo {
     background-image: url(images/wallpapers-teams/saopauloposter.jpg);
     background-position: center center;
-    background-repeat: repeat;
-
+    background-attachment: fixed;
 }
 
 
 footer {
     color: white;
-    background-color: black;
+    background-image: linear-gradient(to right, black 20%, gold 50%, white);
     text-align: center;
    padding: 13px;
 }
