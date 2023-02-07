@@ -12,10 +12,20 @@ header {
     margin-bottom: 33px;
     color: white;
     text-align: center;
+    font-size: 1.5vw;
+}
+
+header > h1 {
+    margin-bottom: 30px;
+}
+
+picture#logolibertadores {
+    display: block;
+    margin: auto;
 }
 
 main {
-    background-image: url(images\copa-libertadores-logo.png);
+   
 }
 
 
