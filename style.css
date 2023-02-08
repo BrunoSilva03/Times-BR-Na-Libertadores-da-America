@@ -162,6 +162,29 @@ article.times#bahia {
     background-attachment: fixed;
 }
 
+article.times#sport {
+    background-image: url(images/wallpapers-teams/sportrecifeposter.JPEG);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+article.times#fortaleza {
+    background-image: url(images/wallpapers-teams/fortalezaposter.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+article.times#coritiba {
+    background-image: url(images/wallpapers-teams/coritibaposter.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+article.times#chapecoense {
+    background-image: url(images/wallpapers-teams/chapecoenseposter.jpg);
+    background-position: right center;
+    background-attachment: fixed;
+}
 
 footer {
     color: white;
