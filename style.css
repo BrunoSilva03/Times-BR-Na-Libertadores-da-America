@@ -120,6 +120,24 @@ article.times#AtleticoMG {
     background-attachment: fixed;
 }
 
+article.times#vascodagama {
+    background-image: url(images/wallpapers-teams/vascodagamaposter.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+article.times#atleticoPR {
+    background-image: url(images/wallpapers-teams/atleticoprposter.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+article.times#fluminense {
+    background-image: url(images/wallpapers-teams/fluminenseposter.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
 
 footer {
     color: white;
