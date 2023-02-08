@@ -67,8 +67,8 @@ article.times {
 }
 
 article.times#palmeiras {
-    background-image: url(images/wallpapers-teams/palmeirasposter.jpg);
-    background-position: top center;
+    background-image: url(images/wallpapers-teams/palmeirasposter2.jpg);
+    background-position: center center;
     background-attachment: fixed;
 }
 
@@ -86,6 +86,36 @@ article.times#gremio {
 
 article.times#Santos {
     background-image: url(images/wallpapers-teams/santosposter.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+article.times#flamengo {
+    background-image: url(images/wallpapers-teams/flamengoposter.jpg);
+    background-position: right center;
+    background-attachment: fixed;
+}
+
+article.times#Cruzeiro {
+    background-image: url(images/wallpapers-teams/cruzeiroposter.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+article.times#corinthians {
+    background-image: url(images/wallpapers-teams/corinthiansposter.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+article.times#internacional {
+    background-image: url(images/wallpapers-teams/internacionalposterotimizado.png);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+article.times#AtleticoMG {
+    background-image: url(images/wallpapers-teams/atleticomineiroposterdecampeao.jpg);
     background-position: center center;
     background-attachment: fixed;
 }
