@@ -78,6 +78,18 @@ article.times#saopaulo {
     background-attachment: fixed;
 }
 
+article.times#gremio {
+    background-image: url(images/wallpapers-teams/gremioposter.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+article.times#Santos {
+    background-image: url(images/wallpapers-teams/santosposter.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
 
 footer {
     color: white;
