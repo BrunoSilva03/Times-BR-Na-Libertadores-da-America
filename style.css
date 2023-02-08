@@ -186,6 +186,18 @@ article.times#chapecoense {
     background-attachment: fixed;
 }
 
+article.times#criciuma {
+    background-image: url(images/wallpapers-teams/criciumaposter3.png);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+article.times#goias {
+    background-image: url(images/wallpapers-teams/goiasposter.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
 footer {
     color: white;
     background-image: linear-gradient(to right, black 20%, gold 50%, white);
