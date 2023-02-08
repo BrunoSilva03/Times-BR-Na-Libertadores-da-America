@@ -144,6 +144,24 @@ article.times#botafogo {
     background-attachment: fixed;
 }
 
+article.times#saocaetano {
+    background-image: url(images/wallpapers-teams/saocaetanoposter.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+article.times#guarani {
+    background-image: url(images/wallpapers-teams/guaraniposter.JPEG);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+article.times#bahia {
+    background-image: url(images/wallpapers-teams/bahiaposter.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
 
 footer {
     color: white;
