@@ -138,6 +138,12 @@ article.times#fluminense {
     background-attachment: fixed;
 }
 
+article.times#botafogo {
+    background-image: url(images/wallpapers-teams/botafogoposter.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
 
 footer {
     color: white;
