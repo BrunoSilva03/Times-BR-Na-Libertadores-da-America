@@ -234,6 +234,24 @@ article.times#SantoAndre {
     background-attachment: fixed;
 }
 
+article.times#paulista {
+    background-image: url(images/wallpapers-teams/paulistaposter2.png);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+article.times#america {
+    background-image: url(images/wallpapers-teams/americaposter.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+article.times#rbbragantino {
+    background-image: url(images/wallpapers-teams/rbbragantinoposter.png);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
 footer {
     color: white;
     background-image: linear-gradient(to right, black 20%, gold 50%, white);
