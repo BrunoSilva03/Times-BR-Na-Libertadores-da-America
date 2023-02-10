@@ -187,7 +187,7 @@ article.times#chapecoense {
 }
 
 article.times#criciuma {
-    background-image: url(images/wallpapers-teams/criciumaposter3.png);
+    background-image: url(images/wallpapers-teams/criciumaposter2.jpg);
     background-position: center center;
     background-attachment: fixed;
 }
@@ -214,6 +214,24 @@ article.times#nautico {
 background-image: url(images/wallpapers-teams/nauticoposter.jpg);
 background-position: center center;
 background-attachment: fixed;
+}
+
+article.times#bangu {
+    background-image: url(images/wallpapers-teams/banguposter.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+article.times#juventude {
+    background-image: url(images/wallpapers-teams/juventudeposter.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+article.times#SantoAndre {
+    background-image: url(images/wallpapers-teams/santoandreposter3.png);
+    background-position: center center;
+    background-attachment: fixed;
 }
 
 footer {
