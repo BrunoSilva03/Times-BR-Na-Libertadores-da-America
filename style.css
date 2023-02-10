@@ -192,6 +192,12 @@ article.times#criciuma {
     background-attachment: fixed;
 }
 
+article.times#paysandu {
+    background-image: url(images/wallpapers-teams/paysanduposter.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+}
+
 article.times#goias {
     background-image: url(images/wallpapers-teams/goiasposter.jpg);
     background-position: center center;
@@ -202,6 +208,12 @@ article.times#paranaclube {
     background-image: url(images/wallpapers-teams/paranaclubeposter.jpg);
     background-position: center center;
     background-attachment: fixed;
+}
+
+article.times#nautico {
+background-image: url(images/wallpapers-teams/nauticoposter.jpg);
+background-position: center center;
+background-attachment: fixed;
 }
 
 footer {
